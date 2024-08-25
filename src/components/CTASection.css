@@ -1,0 +1,16 @@
+.cta-section {
+    padding: 60px 20px;
+    text-align: center;
+    background-color: #4caf50;
+    color: white;
+  }
+  
+  .cta-section .cta-button {
+    padding: 15px 30px;
+    background-color: white;
+    color: #4caf50;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
